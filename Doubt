@@ -1,0 +1,4 @@
+WARNING: You are using pip version 21.1.2; however, version 21.1.3 is available.
+You should consider upgrading via the 'c:\program files\python39\python.exe -m pip install --upgrade pip' command
+When i am installing jupyter notebook i got that error.
+can you please help how to solve this.?
